@@ -1,3 +1,11 @@
+<!-- ustj-doi -->
+# Groundwire: Decentralized Sybil Resistance for a Dead Internet
+
+Evan Forman ~bonbud-macryg, Jake Hamilton ~tondes-sitrym, Trent Steen ~hanfel-dovned. *Urbit Systems Technical Journal* 3(2), 2026.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24389673.svg)](https://doi.org/10.5281/zenodo.24389673) [Read on urbitsystems.tech](https://urbitsystems.tech/article/v03-i02/groundwire-decentralized-sybil-resistance-for-a-dead-internet)
+<!-- /ustj-doi -->
+
 # Urbit Systems Technical Journal—Template Repo
 
 Welcome, prospective USTJ author.  Please keep the following in mind:
